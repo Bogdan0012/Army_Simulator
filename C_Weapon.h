@@ -7,5 +7,4 @@ public:
 	virtual void breaking() {
 		std::cout << "Break";
 	}
-	
 };

@@ -6,4 +6,4 @@ public:
 	virtual void burning() {
 		std::cout << "burned";
 	}
-};
+}; 

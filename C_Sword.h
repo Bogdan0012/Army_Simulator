@@ -9,4 +9,4 @@ public:
 	virtual void attack() {
 		std::cout << "attack by sword";
 	}
-};
+}; 

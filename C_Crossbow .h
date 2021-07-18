@@ -9,4 +9,4 @@ public:
 	virtual void charging() {
 		std::cout << "crossbow charged";
 	}
-};
+}; 

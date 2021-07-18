@@ -6,4 +6,4 @@ public:
 	virtual void protect() {
 		std::cout << "protected";
 	}
-};
+}; 

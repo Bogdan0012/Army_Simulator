@@ -6,4 +6,4 @@ public:
 	virtual void charging() {
 		std::cout << "charged";
 	}
-};
+}; 

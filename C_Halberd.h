@@ -12,4 +12,4 @@ public:
 	virtual void chop() {    // рубящие
 		std::cout << "chop attack by halberd";
 	}
-};
+}; 
